@@ -123,7 +123,7 @@ const styles = StyleSheet.create({
 
   calloutText: {
     color: "#0089a5",
-    fontSize: 14,
+    fontSize: 12,
     fontFamily: "Nunito_700Bold",
   },
 

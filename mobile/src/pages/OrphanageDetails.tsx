@@ -144,12 +144,12 @@ export default function OrphanageDetails() {
           )}
         </View>
 
-        <TouchableOpacity onPress={() => {}}>
+        {/* <TouchableOpacity onPress={() => {}}>
           <RectButton style={styles.contactButton}>
             <FontAwesome name="whatsapp" size={24} color="#FFF" />
             <Text style={styles.contactButtonText}>Entrar em contato</Text>
           </RectButton>
-        </TouchableOpacity>
+        </TouchableOpacity> */}
       </View>
     </ScrollView>
   );
