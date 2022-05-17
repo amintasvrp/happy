@@ -1,5 +1,4 @@
 node_modules
 yarn.lock
 uploads
-api/src/database/database.sqlite
-api\src\database\database.sqlite
+*.sqlite
