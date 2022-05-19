@@ -16,8 +16,8 @@ Happy is an web/mobile application that encourages visiting orphanages to change
 ## Demo
 
 <p float="center">
-  <img src="./docs/happy-web.gif" width="550" />
-  <img src="./docs/happy-mobile.gif" width="110" />
+  <img src="./docs/happy-web.gif" width="570" />
+  <img src="./docs/happy-mobile.gif" width="115" />
 </p>
 
 ## Getting Started
