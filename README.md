@@ -38,7 +38,7 @@ Happy is an web/mobile application that encourages visiting orphanages to change
 1. Make a clone:
 
 ```sh
-   git clone https://github.com/amintasvrp/be-the-hero.git
+   git clone https://github.com/amintasvrp/happy.git
 ```
 
 2. Running the Application:
